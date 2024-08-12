@@ -1,1 +1,14 @@
 hello
+git status
+git --version
+git init
+cd .
+cd 
+
+
+
+
+take or not take
+recursion counting
+memoization
+tabulation
